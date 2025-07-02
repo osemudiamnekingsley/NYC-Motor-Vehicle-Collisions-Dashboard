@@ -15,7 +15,7 @@ This Power BI dashboard provides interactive insights into motor vehicle collisi
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](C:\Users\OOKin\OneDrive\Desktop\PortfolioProjects\NYC motor vehicle collision dataset\NYC motor vehicle screenshot.png)
+![Dashboard Overview]
 
 
 ## 👨‍💻 Author
