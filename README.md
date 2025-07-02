@@ -17,16 +17,8 @@ This Power BI dashboard provides interactive insights into motor vehicle collisi
 
 ![Dashboard Overview](images/dashboard-preview.png)
 
-## 📁 Files
-
-- `NYC_Collisions_Dashboard.pbix` – Full Power BI source file
-- `images/` – Screenshot previews for quick reference
-
-## 📌 Data Source
-
-NYC Open Data: [Motor Vehicle Collisions – Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/bm4k-52h4)
 
 ## 👨‍💻 Author
 
 Kingsley Osifo Osemudiamne  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/osemudiamne/)
