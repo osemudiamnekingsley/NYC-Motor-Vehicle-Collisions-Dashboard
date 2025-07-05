@@ -27,17 +27,7 @@ This Power BI dashboard analyzes **motor vehicle collision data** in New York Ci
 - **Collisions by day of the week and time of day**  
 - **Map of borough-specific collision counts**  
 - **Contributing factors to crashes**  
-- **Breakdown by road user type**  
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Power BI** – for building interactive visualizations  
-- **Excel** – for data cleaning and transformation  
-- **NYC Open Data** – data source  
-
----
+- **Breakdown by road user type** 
 
 ## 🖼️ Dashboard Preview
 
