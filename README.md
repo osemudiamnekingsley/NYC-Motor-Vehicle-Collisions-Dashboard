@@ -41,7 +41,7 @@ This Power BI dashboard analyzes **motor vehicle collision data** in New York Ci
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](./NYC_motor_vehicle_screenshot.png)
+![Dashboard Screenshot](/screenshot.png)
 
 ---
 
