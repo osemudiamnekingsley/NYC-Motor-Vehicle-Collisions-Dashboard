@@ -1,8 +1,8 @@
 # 🚗 NYC Motor Vehicle Collisions Dashboard – Power BI
 
-This Power BI dashboard, currently under development, provides interactive insights into motor vehicle collisions across New York City using open data from NYC Open Data.
+This Power BI dashboard provides interactive insights into motor vehicle collisions across New York City using open data from NYC Open Data.
 
-🔗 **[👉 View Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiY2I4YWFjODEtNDA0Ni00M2JjLWFhN2ItMTEwYjVmZmMzZjA3IiwidCI6IjBmMDRhMDk5LTZkYzctNDRmZC1hODc1LTAwOTIyOTA2ZmM5YiIsImMiOjZ9)**
+🔗 **[👉 View Live Dashboard Here](https://app.powerbi.com/groups/me/reports/10472ec3-dde3-4107-a100-76fb0d799e12/ec5a7310d0caba8bad07?experience=power-bi)**
 
 ---
 
@@ -31,7 +31,7 @@ This Power BI dashboard analyzes **motor vehicle collision data** in New York Ci
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](/screenshot.png)
+![Dashboard Screenshot](/Screenshot 2025-07-17 072109)
 
 ---
 
